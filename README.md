@@ -7,4 +7,7 @@
 - 👯 I’m looking to collaborate on creative ML/AI projects
 - 📫 How to reach me: 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: : I have too many models in my life - most of them are ML, not runway.
+- ⚡ Fun fact: : My github name is an anagram of my name.
+
+![GitHub Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huskhi&theme=radical)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huskhi&theme=radical)
